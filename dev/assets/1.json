@@ -1,0 +1,19 @@
+{
+  "name": "Tolstoy",
+  "symbol": "T",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "6pv52228bMAPtmU9ahFvUmMKhhBtHhP2xEK8KCkvBCju",
+        "share": 100
+      }
+    ]
+  }
+}
